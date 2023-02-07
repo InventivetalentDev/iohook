@@ -19,7 +19,6 @@
     "build": "node build.js --upload=false",
     "build:ci": "node build.js --all",
     "build:print": "node -e 'require(\"./helpers\").printManualBuildParams()'",
-    "test": "jest",
     "lint:dry": "eslint --ignore-path .lintignore .",
     "lint:fix": "eslint --ignore-path .lintignore --fix . && prettier --ignore-path .lintignore --write .",
     "docs:dev": "vuepress dev docs",
