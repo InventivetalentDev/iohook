@@ -31,7 +31,7 @@ function install(runtime, abi, platform, arch, cb) {
 
   console.log('Downloading prebuild for platform:', currentPlatform);
   let downloadUrl =
-    'https://github.com/mystk/iohook/releases/download/v' +
+    'https://github.com/inventivetalentdev/iohook/releases/download/v' +
     pkgVersion +
     '/' +
     currentPlatform +

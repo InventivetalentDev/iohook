@@ -4,13 +4,13 @@
   "description": "Node.js global keyboard and mouse hook",
   "author": "Aloyan Dmitry",
   "license": "MIT",
-  "homepage": "https://github.com/mystk/iohook",
+  "homepage": "https://github.com/inventivetalentdev/iohook",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mystk/iohook.git"
+    "url": "git+https://github.com/inventivetalentdev/iohook.git"
   },
   "bugs": {
-    "url": "https://github.com/mystk/iohook/issues"
+    "url": "https://github.com/inventivetalentdev/iohook/issues"
   },
   "main": "index.js",
   "types": "index.d.ts",
